@@ -1,0 +1,2 @@
+python distribucion_expon.py
+pause

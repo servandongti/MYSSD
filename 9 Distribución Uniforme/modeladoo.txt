@@ -1,0 +1,11 @@
+Una compañia de autos esta tratando de determinar el numero optimo de autos a comprar. El costo promedio anual de un auto es de $75000
+Ademas esta compañia ha recopilado las siguientes probabilidades de operacion:
+
+Numero de autos rentados por dia: 0      1      2      3       4
+Probabilidad:                     0.10  0.10   0.25   0.30   0.25
+
+Numero de dias rentados por auto: 1      2      3      4
+Probabilidad:                    0.40   0.35   0.15   0.10
+
+Si la renta diaria por auto es de $350, el costo de no tener un auto disponible cuando se esta solicitando es de $200 y el costo de tener un carro ocioso durante un dia es de $50, ¿cual es la cantidad de autos que deberia comprar la compañia?
+(un auto que se renta por un dia esta disponible al dia siguiente, y son 365 dias de operacion al año)

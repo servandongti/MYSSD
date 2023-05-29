@@ -1,0 +1,2 @@
+python Multiplicativo.py
+pause

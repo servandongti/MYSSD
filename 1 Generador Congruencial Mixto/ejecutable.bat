@@ -1,0 +1,2 @@
+python mixto.py
+pause

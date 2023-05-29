@@ -1,0 +1,2 @@
+python generador.py
+pause

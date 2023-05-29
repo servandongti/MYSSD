@@ -1,0 +1,3 @@
+El proyecto entero se encuentra en la carpeta "Aleatorios", el proyecto fue
+elaborado en Netbeans por lo cual se recomienda abrir el proyecto con el mismo.
+El ejecutable para correr el programa es el llamado "Ejecutable.bat"

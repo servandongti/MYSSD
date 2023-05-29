@@ -1,0 +1,1 @@
+el programa se tienen que capturar los numeros para hacer la prueba, esta basado en un problema de libreta y tienen que ser enteros (SI 33887, NO 0.33887) el mismo programa se encarga de ponerlos en decimal, el de Java si son con numeros aleatrorios 

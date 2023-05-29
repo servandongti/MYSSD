@@ -1,0 +1,3 @@
+El codigo se encuentra en Mixto.py
+
+Para abrir sin necesidad del CMD utilizar ejecutable.bat

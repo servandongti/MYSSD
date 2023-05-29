@@ -1,0 +1,15 @@
+En caso de tener el error de No module named 'numpy'
+
+Correr la siguiente linea en el CMD:
+
+pip install numpy
+
+
+o en caso de Python3 usar:
+
+pip3 install numpy
+
+
+El codigo se encuentra en Multiplicativo.py
+
+Para abrir sin necesidad del CMD utilizar ejecutable.bat
